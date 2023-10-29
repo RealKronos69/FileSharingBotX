@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#(©)KronoXBotz
 
 
 
@@ -91,7 +91,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data = "about"),
                     InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data = "close"),
                     InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/Spartans_mainchat"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Realkronos)
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Realkronos")
                 ]
             ]
         )
